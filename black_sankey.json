@@ -35,36 +35,18 @@
       "target": 1,
       "value": 0.78,
       "label": 0.78
-    },
-    {
-      "source": 0,
-      "target": 2,
-      "value": 0.22,
-      "label": 0.22
-    },    
+    },  
     {
       "source": 1,
       "target": 3,
-      "value": 0.461,
-      "label": 0.36
+      "value": 0.36,
+      "label": 0.46
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0.78,
-      "label": 0.33
-    },
-    {
-      "source": 3,
-      "target": 5,
-      "value": 0.2412,
-      "label": 0.67
-    },
-    {
-      "source": 5,
-      "target": 6,
-      "value": 0.038592,
-      "label": 0.16
+      "value": 0.4,
+      "label": 0.22
     }
   ]
 }
