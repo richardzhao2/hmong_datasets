@@ -45,13 +45,13 @@
     {
       "source": 1,
       "target": 3,
-      "value": 0.28,
-      "label": 0.28
+      "value": 0.461,
+      "label": 0.36
     },
     {
       "source": 3,
       "target": 4,
-      "value": 0.1188,
+      "value": 0.78,
       "label": 0.33
     },
     {
