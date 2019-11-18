@@ -10,11 +10,11 @@
     },
     {
       "name": "Go to College (undergrad)",
-      "id": 3
+      "id": 2
     },
     {
       "name": "Graduate College (undergrad)",
-      "id": 4
+      "id": 3
     }
   ],
   "links": [
@@ -26,13 +26,13 @@
     },  
     {
       "source": 1,
-      "target": 3,
+      "target": 2,
       "value": 0.36,
       "label": 0.46
     },
     {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "value": 0.4,
       "label": 0.22
     }
