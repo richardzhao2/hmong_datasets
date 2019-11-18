@@ -9,24 +9,12 @@
       "id": 1
     },
     {
-      "name": "Do not graduate high school",
-      "id": 2
-    },
-    {
       "name": "Go to College (undergrad)",
       "id": 3
     },
     {
       "name": "Graduate College (undergrad)",
       "id": 4
-    },
-    {
-      "name": "Do not Graduate College (undergrad)",
-      "id": 5
-    },
-    {
-      "name": "Earn Postgrad Degree",
-      "id": 6
     }
   ],
   "links": [
