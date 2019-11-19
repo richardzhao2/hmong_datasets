@@ -44,13 +44,13 @@
       "source": 1,
       "target": 2,
       "value": 0.64,
-      "label": 0.46
+      "label": 0.70
     },
     {
       "source": 1,
       "target": 7,
-      "value": 0.09,
-      "label": 0.36
+      "value": 0.36,
+      "label": 0.30
     },
     {
       "source": 2,
