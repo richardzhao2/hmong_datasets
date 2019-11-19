@@ -56,7 +56,7 @@
       "source": 2,
       "target": 3,
       "value": 0.18,
-      "label": 0.10
+      "label": 0.375
     },
     {
       "source": 0,
@@ -68,7 +68,7 @@
       "source": 2,
       "target": 5,
       "value": 0.30,
-      "label": 0.90
+      "label": 0.625
     }, 
     {
       "source": 3,
