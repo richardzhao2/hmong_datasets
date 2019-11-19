@@ -49,7 +49,7 @@
     {
       "source": 1,
       "target": 7,
-      "value": 0.3276,
+      "value": 0.27,
       "label": 0.36
     },
     {
@@ -73,7 +73,7 @@
     {
       "source": 3,
       "target": 6,
-      "value": 0.54,
+      "value": 0.53,
       "label": 1
     }
   ]
